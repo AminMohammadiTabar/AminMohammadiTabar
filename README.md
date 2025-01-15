@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Engineering wit
 - 🌱 Currently learning and exploring Kafka, Redis, and advanced microservice communication patterns.
 - 💻 Skilled in Java and Spring Framework for building scalable applications.
 - 🛠 Passionate about DevOps and containerized solutions with Docker.
-- 📫 Feel free to reach out via [email](mailto:your-email@example.com) or connect on [LinkedIn](https://linkedin.com/in/your-profile).
+- 📫 Feel free to reach out via [email](mailto:aminmohammaditabar@outlook.com) or connect on [LinkedIn](https://linkedin.com/in/amin-mohammadi-tabar).
 
 ---
 

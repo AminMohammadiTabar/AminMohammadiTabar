@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Master's student in Computer Engineering with a focus on Software Architecture and Big Data Processing. I have a strong interest in designing high-performance microservice architectures that process and analyze real-time data flows. 🚀
 
 ## About Me
-- 🌱 Currently learning and exploring Kafka, Redis, and advanced microservice communication patterns.
+- 🌱 Currently researching and exploring more and more about Kafka, Redis, and advanced microservice communication patterns.
 - 💻 Skilled in Java and Spring Framework for building scalable applications.
 - 🛠 Passionate about DevOps and containerized solutions with Docker.
 - 📫 Feel free to reach out via [email](mailto:aminmohammaditabar@outlook.com) or connect on [LinkedIn](https://linkedin.com/in/amin-mohammadi-tabar).
